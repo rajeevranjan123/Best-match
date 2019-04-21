@@ -28,5 +28,5 @@ Example:
     2) http://127.0.0.1:5000/rao
     
 More details:
-    go through the input output screenshort
+    go through the input output screenshot
 ############################################################################################
