@@ -26,4 +26,7 @@ Pass search query through the URL(atleast 3 char)
 Example:
     1) http://127.0.0.1:5000/kar
     2) http://127.0.0.1:5000/rao
+    
+More details:
+    go through the input output screenshort
 ############################################################################################
